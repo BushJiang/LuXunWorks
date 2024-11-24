@@ -1,0 +1,11 @@
+embedding:
+    embed_model: "BAAI/bge-small-zh-v1.5"
+    dim: 512
+milvus:
+    host: "localhost" 
+    port: "19530"
+    collection_name: "LuXunWorks"
+    limit: 4
+llm:
+    model: "deepseek-chat"
+    temperature: 0

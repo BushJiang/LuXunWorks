@@ -1,0 +1,8 @@
+torch==2.4.1
+tqdm==4.66.5
+pymilvus==2.4.7
+pymilvus[model]
+PyYAML==6.0.2
+easydict==1.13
+llama_index==0.11.16
+openai==1.51.0
